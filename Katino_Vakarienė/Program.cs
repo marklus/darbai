@@ -14,8 +14,10 @@ namespace Katino_Vakarienė
             int VisoZuvu = Convert.ToInt32(Console.ReadLine());
             int parnestos = 0;
             double BendrasSvoris = 0;
+            int KiekDideliu = 0;
+            int KiekSkaniu = 0;
 
-            while (VisoZuvu!=0)
+            while (VisoZuvu != 0)
             {
                 Console.WriteLine("Ar žuvis buvo skani 1=taip, 0=Ne");
                 int Atsakymas = Convert.ToInt32(Console.ReadLine());
@@ -25,13 +27,23 @@ namespace Katino_Vakarienė
                 Double Svoris = Convert.ToDouble(Console.ReadLine());
                 Console.WriteLine();
 
-                if (Svoris>1 && Atsakymas==1)
+                if (Svoris > 1 && Atsakymas == 1)
                 {
                     parnestos++;
                     BendrasSvoris += Svoris;
                 }
 
-                VisoZuvu--;        
+                if (Svoris > 1)
+                {
+                    KiekDideliu++;
+                }
+
+                if (Atsakymas == 1)
+                {
+                    KiekSkaniu++;
+                }
+
+                VisoZuvu--;
             }
 
             Console.WriteLine("Atsakymas:{0} žuvelės, {1} kg. ", parnestos, BendrasSvoris);
