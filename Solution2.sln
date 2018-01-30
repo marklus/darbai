@@ -200,6 +200,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skaiciu_Lentele_iki16", "Sk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Katino_Vakarienė", "Katino_Vakarienė\Katino_Vakarienė.csproj", "{D7E4F5E3-5AD7-4CA0-B053-744F440EAB1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uždarbis", "Uždarbis\Uždarbis.csproj", "{F38C4893-0CE0-43FA-B327-293B3783F638}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -518,6 +520,10 @@ Global
 		{D7E4F5E3-5AD7-4CA0-B053-744F440EAB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7E4F5E3-5AD7-4CA0-B053-744F440EAB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7E4F5E3-5AD7-4CA0-B053-744F440EAB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38C4893-0CE0-43FA-B327-293B3783F638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38C4893-0CE0-43FA-B327-293B3783F638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38C4893-0CE0-43FA-B327-293B3783F638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38C4893-0CE0-43FA-B327-293B3783F638}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -601,6 +607,7 @@ Global
 		{13856E38-9EDB-4CD6-B676-18F1E908E991} = {3489F977-D167-462A-AE70-8550C0E6B8D6}
 		{9EF4AD3F-16A1-4901-A61A-F9AC41EF116E} = {3489F977-D167-462A-AE70-8550C0E6B8D6}
 		{D7E4F5E3-5AD7-4CA0-B053-744F440EAB1C} = {3489F977-D167-462A-AE70-8550C0E6B8D6}
+		{F38C4893-0CE0-43FA-B327-293B3783F638} = {3489F977-D167-462A-AE70-8550C0E6B8D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26536AC7-EB2A-43BB-9261-6C4B1BC68E97}
