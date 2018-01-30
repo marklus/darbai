@@ -194,6 +194,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dangus", "Dangus\Dangus.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daugybos_Lentelė", "Daugybos_Lentelė\Daugybos_Lentelė.csproj", "{8275343E-FA8D-459C-B4BD-D644DDD2317E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skaiciavimu_Lentele", "Skaiciavimu_Lentele\Skaiciavimu_Lentele.csproj", "{13856E38-9EDB-4CD6-B676-18F1E908E991}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -500,6 +502,10 @@ Global
 		{8275343E-FA8D-459C-B4BD-D644DDD2317E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8275343E-FA8D-459C-B4BD-D644DDD2317E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8275343E-FA8D-459C-B4BD-D644DDD2317E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13856E38-9EDB-4CD6-B676-18F1E908E991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13856E38-9EDB-4CD6-B676-18F1E908E991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13856E38-9EDB-4CD6-B676-18F1E908E991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13856E38-9EDB-4CD6-B676-18F1E908E991}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -580,6 +586,7 @@ Global
 		{D6377C19-A972-47D6-87AA-FA632BBB7E55} = {ADFD3ACB-7D49-4BED-991E-7B03167E396F}
 		{F0ADABE0-FBBF-4477-9B00-F8933F36C660} = {3489F977-D167-462A-AE70-8550C0E6B8D6}
 		{8275343E-FA8D-459C-B4BD-D644DDD2317E} = {3489F977-D167-462A-AE70-8550C0E6B8D6}
+		{13856E38-9EDB-4CD6-B676-18F1E908E991} = {3489F977-D167-462A-AE70-8550C0E6B8D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26536AC7-EB2A-43BB-9261-6C4B1BC68E97}
