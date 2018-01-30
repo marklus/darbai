@@ -23,11 +23,10 @@ namespace Uždarbis
             {
 
                 uzdarbis = Convert.ToDouble(Console.ReadLine());
-                if (uzdarbis!=-1)
-                {
+
                     uzdarbiai.Add(uzdarbis);
                     kiek--;
-                }
+
 
             } while (kiek>0);
 
