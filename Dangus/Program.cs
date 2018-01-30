@@ -18,7 +18,7 @@ namespace Dangus
                 Console.WriteLine("Dangus yra giedras");
             }
 
-            if(ats==0)
+            else if(ats==0)
             {
                 Console.WriteLine("Dangus nėra giedras");
             }
