@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prekyba_Ledais_List", "..\source\repos\Prekyba_Ledais_List\Prekyba_Ledais_List\Prekyba_Ledais_List.csproj", "{7E15D002-1ECD-4C8D-AE60-90A9DF632B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E15D002-1ECD-4C8D-AE60-90A9DF632B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E15D002-1ECD-4C8D-AE60-90A9DF632B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E15D002-1ECD-4C8D-AE60-90A9DF632B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E15D002-1ECD-4C8D-AE60-90A9DF632B67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C05197-2E92-40FD-8036-3B6165402F33}
+	EndGlobalSection
+EndGlobal
